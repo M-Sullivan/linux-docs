@@ -2,10 +2,6 @@
 
 [Scratchpad](docs/scratchpad.md) - Un-organized temp space for notes.
 
-## Programs
-
-[reflector](programs/reflector.md)
-
 ## Docs
 
 [Installation](docs/installation.md) - Setup Instructions and Notes
@@ -16,3 +12,6 @@
 
 [Software](docs/software.md) - First things to get after setup.
 
+## Programs
+
+[reflector](programs/reflector.md)
